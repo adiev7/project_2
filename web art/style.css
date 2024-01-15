@@ -1,0 +1,300 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    position: absolute;
+    width: 100%;
+    height: 6389px;
+    background-color: #677171;
+}
+
+.container {
+    width: 1240px;
+    margin: 0 auto;
+}
+
+header {
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 366px;
+    background-color: #677171;
+}
+
+.h1 {
+    position: absolute;
+    top: 75px;
+    left: 222px;
+    font-size: 7rem;
+    color: #fff;
+}
+
+p.logo-2 {
+    position: absolute;
+    top: 191px;
+    left: 462px;
+    font-size: 3rem;
+    color: #fff;
+}
+
+.social-media{
+    margin: 0 auto 0 50px;
+}
+
+.social-media a  {
+    position: relative;
+    top: 260px;
+    left: 560px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 40px;
+    height: 40px;
+    background: transparent;
+    border: 2px solid #fff;
+    border-radius: 6px;
+    text-decoration: none;
+    margin-right: 10px;
+    transition: .5s;
+}
+
+.social-media a:hover {
+    background: #fff;
+}
+
+.social-media a i {
+    font-size: 20px;
+    color: #fff;
+    transition: .5s;
+}
+
+.social-media a:hover i{
+    color: #444;
+}
+
+
+div.peek-1 {
+    position: absolute;
+    top: 469px;
+    right: 100px;
+}
+
+div.peek-2 {
+    position: absolute;
+    top: 1252px;
+    left: 100px;
+}
+
+div.peek-3 {
+    position: absolute;
+    top: 2035px;
+    right: 100px;
+}
+
+div.peek-4 {
+    position: absolute;
+    top: 2818px;
+    left: 100px;
+}
+
+div.peek-5 {
+    position: absolute;
+    top: 3601px;
+    right: 100px;
+}
+
+div.peek-6 {
+    position: absolute;
+    top: 4384px;
+    left: 100px;
+}
+
+div.peek-7 {
+    position: absolute;
+    bottom: 672px;
+    right: 100px;
+}
+
+h1 {
+    position: absolute;
+    top: 457px;
+    left: 100px;
+    color: #fff;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+h2 {
+    position: absolute;
+    top: 1239px;
+    right: 100px;
+    color: #fff;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+h3{
+    position: absolute;
+    top: 2022px;
+    left: 100px;
+    color: #fff;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+h4 {
+    position: absolute;
+    top: 2807px;
+    right: 100px;
+    color: #fff;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+h5{
+    position: absolute;
+    top: 3589px;
+    left: 100px;
+    color: #fff;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+h6{
+    position: absolute;
+    top: 4373px;
+    right: 213px;
+    color: #fff;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+h7 {
+    position: absolute;
+    bottom: 1183px;
+    right: 1113px;
+    left: 94px;
+    color: #fff;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+p.p1 {
+    position: absolute;
+    top: 588px;
+    left: 100px;
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+p.p2 {
+    position: absolute;
+    top: 1371px;
+    right: 123px;
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+p.p3 {
+    position: absolute;
+    top: 2154px;
+    left: 100px;
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+p.p4 {
+    position: absolute;
+    top: 2960px;
+    right: 135px;
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+p.p5{
+    position: absolute;
+    top: 3720px;
+    left: 100px;
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+p.p6 {
+    position: absolute;
+    bottom: 1633px;
+    right: 100px;
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+p.p7 {
+    position: absolute;
+    bottom: 896px;
+    left: 100px;
+    color: #fff;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+}
+
+footer {
+    position: absolute;
+    top: 5851px;
+    background-color: #515b5b4a;
+    width: 100%;
+    height: 538px;
+    flex-shrink: 0;
+}
+
+.h8 {
+    position: absolute;
+    bottom: 312px;
+    left: 222px;
+    font-size: 7rem;
+    color: #fff;
+}
+
+p.logo-3 {
+    position: absolute;
+    bottom: 273px;
+    left: 462px;
+    font-size: 3rem;
+    color: #fff;
+}
+
+ul li {
+    display: inline-block;
+    list-style-type: none;
+    margin: 0 112px;
+    float: left; 
+}
+
+li {
+    position: relative;
+    top: 324px;
+    color: #fff;
+    text-decoration: none;
+}
